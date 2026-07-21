@@ -1,0 +1,43 @@
+site_name: Panduan Tugas Akhir
+site_description: Panduan Tugas Akhir Mahasiswa - Versi Digital
+theme:
+  name: material
+  language: id
+  palette:
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+nav:
+  - Beranda: index.md
+  - "I. Pendahuluan": 01-pendahuluan.md
+  - "II. Ketentuan Umum": 02-ketentuan-umum.md
+  - "III. Aturan Penulisan": 03-aturan-penulisan.md
+  - "IV. TA Berkelompok": 04-ta-berkelompok.md
+  - "V. TA Skripsi": 05-ta-skripsi.md
+  - "VI. TA Karya Tulis Ilmiah": 06-ta-kti.md
+  - "VII. TA Inovasi/Teknologi Tepat Guna": 07-ta-inovasi-teknologi.md
+  - "VIII. TA Program Mahasiswa Wirausaha": 08-ta-wirausaha.md
+  - "IX. TA Magang": 09-ta-magang.md
+  - "X. TA Pengabdian kepada Masyarakat": 10-ta-pengabdian-masyarakat.md
+  - "XI. TA Program Kreativitas Mahasiswa": 11-ta-pkm.md
+  - "XII. TA Artikel Publikasi": 12-ta-artikel-publikasi.md
+  - "XIII. TA Literatur Review": 13-ta-literatur-review.md
+  - "XIV. Prosedur Sempro & Semhas": 14-prosedur-sempro-semhas.md
+  - "XV. Kode Etik, Sanksi, Tata Tertib": 15-kode-etik-sanksi.md
+  - "XVI. Naskah Publikasi": 16-naskah-publikasi.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true

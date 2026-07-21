@@ -1,0 +1,470 @@
+# BAB III - Aturan Penulisan Proposal dan Hasil Tugas Akhir
+
+BAB III
+             ATURAN PENULISAN PROPOSAL DAN HASIL TUGAS AKHIR
+
+A. Naskah
+   1.   Ukuran kertas A4s, polos (21,5 x 29,7 cm)
+   2.   Tebal kertas untuk naskah proposal adalah 70 gram, dan tebal kertas untuk naskah
+        hasil akhir Tugas Akhir adalah 80 gram (ukuran sama dalam satu naskah)
+   3.   Naskah dicetak menggunakan tinta yang tidak mudah terhapus
+
+B. Pengetikan
+   1.   Batas tepi (margin)
+        Batas-batas pengetikan diukur dari tepi kertas sebagai berikut:
+        a.    Tepi atas         : 4 cm
+        b.    Tepi bawah        : 3 cm
+        c.    Tepi kiri         : 4 cm
+        d.    Tepi kanan        : 3 cm
+   2.   Jenis huruf dan spasi
+        a.    Naskah diketik dengan huruf Times New Roman ukuran font 12
+        b.    Pengetikan naskah menggunakan tinta hitam, ketebalan huruf tiap halaman sama,
+              dilakukan satu muka, tidak bolak-balik.
+        c.    Naskah pada bagian daftar isi, daftar tabel, daftar gambar, dan daftar lampiran,
+              diketik dengan menggunakan 1,5 spasi.
+        d.    Naskah pada isi (Bab) diketik menggunakan dua spasi (spasi ganda)
+        e.    Lembar daftar pustaka diketik menggunakan 1 spasi dengan spacing after 6 pt.
+        f.    Jumlah baris pada setiap halaman tidak boleh melebihi 26 baris.
+        g.    Kalimat lanjutan setelah koma, titik dan titik koma diketik satu ketukan setelah
+              tanda tersebut.
+        h.    Indentasi pada alinea baru yaitu 6 ketukan (0,5 inchi = 1,27 cm)
+        i.    Alinea baru dimulai setelah tiga kalimat atau minimal 5 baris dan tidak lebih dari
+              10 baris.
+   3.   Huruf kapital
+        a.    Huruf pertama awal kalimat.
+        b.    Huruf pertama pada judul jurnal dan setiap kata dalam judul buku, kecuali kata
+              tugas: dan, yang, untuk, di, ke, dari, terhadap, sebagai, tetapi,berdasarkan, dalam,
+             antara, melalui, secara yang tidak pada posisi awal.
+        c.   Nama bangsa, bahasa, agama, orang, hari, bulan, lembaga, takson makhluk di
+             atas genus.
+        d.   Nama geografi, tetapi untuk nama geografi yang digunakan sebagai jenis seperti
+             pisang ambon dan gula jawa atau sebagai bentuk dasar kata turunan seperti
+             mengindonesiakan.
+        e.   Penulisan nama orang pada hukum dalil, uji, teori, metode. Untuk proses atau uji
+             yang tidak diikuti nama orang ditulis huruf kecil. Jika penamaan tersebut akan
+             disingkat, maka singkatannya huruf kapital misal metode imunodifusi ganda
+             (MIG), rancangan acak lengkap (RAL), dll.
+   4.   Huruf miring
+        a.   Kata dan ungkapan asing yang ejaannya bertahan dalam banyak bahasa, contoh:
+             ad hoc, et al., in vitro dan lain-lain.
+        b.   Tetapan atau peubah yang tidak diketahui dalam matematika, misal x, y, l.
+        c.   Judul buku atau terbitan berkala yang disebutkan dalam tubuh tulisan.
+        d.   Nama ilmiah genus, spesies, varietas, dan forma makhluk, tetapi nama ilmiah
+             takson di atas tingkat genus tidak ditulis dengan huruf miring
+
+C. Pemberian Nomor Halaman dan Penulisan Judul Perbab
+   Ketentuan pemberian nomor halaman adalah sebagai berikut:
+   1.   Penomoran halaman menggunakan font Times New Roman size 12.
+   2.   Nomor halaman dari halaman cover sampai dengan halaman daftar lampiran
+        menggunakan angka romawi kecil (i, ii, iii, iv) dan seterusnya diletakkan di tengah
+        bagian bawah halaman.
+   3.   Penomoran halaman di luar halaman yang disebutkan pada no.2 dilakukan dengan
+        menggunakan angka arab (1,2,3 dan seterusnya) diletakkan di sudut kanan atas
+        halaman, kecuali pada halaman dimulainya bab baru, maka halaman berada di tengan
+        bagian bawah halaman bab baru tersebut.
+   4.   Nomor halaman pada daftar kepustakaan dan lampiran merupakan nomor lanjutan
+        dari isi laporan dan tidak merupakan bab baru (posisi sudut kanan atas).
+   5.   Persamaan
+        Nomor urut persamaan yang berbentuk persamaan (rumus) matematika, reaksi kimia,
+        dan lain-lain (kalau ada) diberi nomor dengan angka arab yang ditulis di dalam
+        kurung dan ditempatkan di dekat batas tepi kanan pengetikan tanpa diakhiri titik.
+     Contoh:
+     CaSO4 + K2CO3                  CaCO3 + K2SO4                                   (3)
+6.   Judul bab ditulis dengan huruf kapital tebal (bold) dengan posisi rata tengah. Setiap
+     bab terpisah dalam halaman yang berbeda.
+7.   Judul subbab ditulis dengan huruf pertama kapital pada setiap kata kecuali kata
+     penghubung dan kata depan. Judul subbab di bold, posisi rata kiri dan tanpa diakhiri
+     titik dengan spacing before 12 pt. Kalimat pertama sesudah subjudul dimulai dengan
+     alinea baru.
+8.   Anak subbab ditulis tebal dan diketik mulai dari batas tepi kiri pengetikan dan tanpa
+     diberi titik. Huruf kapital hanya digunakan pada permulaan anak subbab. Kalimat
+     pertama sesudah anak subjudul dimulai dengan alinea baru.
+9.   Judul bab, judul subbab, judul anak subbab mengikuti seperti contoh berikut.
+
+                                             BAB I
+                                          PENDAHULUAN
+
+      A. Judul Subab
+          1.   Judul anak subbab
+               a.   Judul anak anak subbab
+                    1)
+                         a)
+                              (1)
+                                    (a)
+
+      B. Judul Subab
+          1.   dan seterusnya
+                                                     BAB II
+                                              TINJAUAN PUSTAKA
+
+        A. Judul Subab
+            1.    Judul anak subbab
+                  a.   Judul anak anak subbab
+                       1)
+                            a)
+                                  (1)
+                                        (a)
+
+        B. Judul Subab
+            1.    dan seterusnya
+
+D. Bahasa
+   1.   Bahasa yang digunakan adalah Bahasa Indonesia yang baku dan menggunakan ejaan
+        yang telah disempurnakan sesuai Pedoman Umum Ejaan Bahasa Indonesia (PUEBI).
+   2.   Bentuk kalimat tidak boleh menampilkan orang pertama atau orang kedua (misal:
+        saya, kami), tapi gunakan kata “penulis“.
+   3.   Istilah
+        a. Istilah yang digunakan adalah istilah Bahasa Indonesia atau yang sudah
+           diterjemahkan ke dalam Bahasa Indonesia.
+        b. Istilah asing dipergunakan apabila istilah tersebut sukar atau tidak dapat
+           diterjemahkan ke dalam Bahasa Indonesia dan istilah tersebut penting
+           dipergunakan dalam penelitian. Penulisan istilah asing tersebut harus dicetak
+           miring.
+        c. Kata majemuk yang merupakan gabungan bentuk bebas dan bentuk terikat ditulis
+           serangkai, misalnya antarbangsa, antihuruhara, hipertensi, inframerah, ultraviolet,
+           kontraindikasi,       nonpolar,      subbab,   inkonvensinal,   semipolar,   kooperatif,
+           bikarbonat, dsb.
+        d. Kata majemuk yang diberi awalan dan akhiran ditulis serangkai, misalnya
+           penyalahgunaan, disalahgunakan, perkembangbiakan.; sedangkan kata majemuk
+  yang hanya diberi awalan saja atau akhiran saja ditulis serangkai dengan kata yang
+  langsung mengikuti atau mendahuluinya, misalnya berkembang biak.
+e. Huruf f dan v jangan diganti dengan p, misalnya aktif (bukan aktip), aktivitas
+  (bukan aktifitas).
+f. Konsonan kembar dalam Bahasa Indonesia tidak ada, misalnya klasifikasi (bukan
+  klassifikasi), efektif (bukan effektif), tetapi ada massa di samping masa yang
+  mempunyai perbedaan makna.
+g. Huruf y tetap y jika lafalnya y, misalnya yen, yuan; y menjadi i jika lafalnya i,
+  misalnya hipokotil (bukan hypokotil), analisis (bukan analysis).
+h. Huruf x hanya dipakai di awal kalimat, di tempat lain ks, misalnya xilem (bukan
+  ksilem), taksonomi (bukan taxonomi), kompleks (bukan komplex atau komplek).
+  Huruf h pada gugus gh, kh, rh, th dihilangkan, sedangkan huruf ph menjadi f dan
+  ch menjadi k, misalnya kromatografi (bukan khromatographi), ritme (bukan
+  rhitme); metode (bukan methode atau metoda); morfologi (bukan morphologi atau
+  morpologi).
+i. –ic menjadi –ik, sedangkan –ics menjadi –ik, -ika, misalnya analgesic menjadi
+  analgesik, electronic menjadi elektronik; electronics menjadi elektronika,
+  mechanics menjadi mekanika.
+j. Beberapa kata sulit yang sering ditulis salah karena penulis tidak mengetahui
+  bentuk bakunya yaitu kualitas (bukan kwalitas), jadwal (bukan jadual), sintesis
+  (bukan sintesa), atmosfer (bukan atmosfir), varietas (bukan varitas), autoklaf
+  (bukan    otoklaf),   hemoglobin    (bukan   haemoglobin),   fluoresensi   (bukan
+  fluorescenci), apotek (bukan apotik).
+k. Beberapa kata tidak baku yang sering digunakan, misalnya:
+                         Tabel 3.1 Kata baku dan tidak baku
+              Bentuk tidak baku                       Bentuk baku
+     terdiri dari                            terdiri atas
+     tergantung pada                         bergantung pada
+     berdasarkan kepada                      berdasarkan pada
+     bertujuan untuk                         bertujuan X
+     antara x dengan y                       antara x dan y
+     dibanding …                             dibandingkan dengan
+     walau atau meskipun …, tetapi….         walau atau meskipun …, tetapi….
+     walau atau meskipun …, …. (tanpa        walau atau meskipun …, ….
+     tetapi)                                 (tanpa tetapi)
+     beberapa sampel-sampel                  beberapa sampel
+     banyak unsur-unsur                      banyak unsur
+                       Bentuk tidak baku                        Bentuk baku
+               disebabkan karena                        disebabkan oleh
+               agar supaya                              agar atau supaya
+               dalam rangka untuk                       dalam rangka…atau untuk …
+               setelah … kemudian …                     setelah …
+               … baik … ataupun …                       … baik … maupun …
+
+   4.   Hal-hal yang perlu diperhatikan:
+        a.    Kata penghubung (sehingga, dan, sedangkan, karena, dan sebagainya) tidak boleh
+              diletakkan di depan kalimat.
+        b.    Kata depan (di, ke, dari, dan sebagainya) tidak boleh digunakan di depan subjek.
+        c.    Awalan “di” dan “ke” harus dibedakan dengan kata depan “di” dan “ke”. Awalan
+              “di” berfungsi untuk membentuk kata kerja pasif, sedangkan “ke” berfungsi
+              untuk membentuk kata bilangan dan kata benda. Penulisan awalan “di” dan “ke”
+              harus selalu disambung dengan kata di belakangnya (contoh dipetik, ditimbang,
+              kedua, dan sebagainya).
+        d.    Kata depan “di” dan “ke” berfungsi untuk menyatakan tempat dan penulisannya
+              selalu dipisah dari kata di belakangnya (contoh: di depan, di atas, di antara, ke
+              pasar, ke muka, di antaranya, di samping itu, di dalam, dan sebagainya, kecuali
+              kepada dan daripada).
+
+E. Pemilihan dan Penulisan Kata
+             Pemilihan kata menggunakan kata yang jelas dan sederhana, tidak memiliki arti
+   ganda. Penggunaan kalimat mengandung subjek, predikat, objek. Penggunaan kata
+   penghubung, seperti: sehingga, karena, walaupun, untuk, di, dan yang lain nya tidak
+   diperkenankan diawal kalimat. Pemisahan kata kadang-kadang diperlukan karena
+   memang tidak dapat dihindarkan, misalnya supaya bagian tepi kanan rapi, hal ini
+   diperbolehkan tetapi harus menggunakan kaidah Bahasa Indonesia yang baik dan benar.
+   Pemisahan kata dilakukan sesuai dengan kata dasar dan suku kata.
+             Penggunaan singkatan dilakukan dengan ketentuan sebagai berikut:
+   1.   Singkatan seperti (yg, dsb, dll, dan sebagainya) tidak diperbolehkan.
+   2.   Singkatan menyatakan ukuran seperti (meter: m, celcius: C, kilogram: kg dan
+        sebagainya) digunakan sesudah angka seperti (10 m, 37 C, 5 kg dan sebagainya).
+        Singkatan tersebut tidak diperbolehkan jika berdiri sendiri.
+   3.   Singkatan digunakan apabila sudah terdapat keterangan sebelumnya, misalnya:
+        Sekolah Dasar (SD) selanjutnya dapat ditulis SD saja.
+     4.   Nama genus dapat disingkat pada penulisan berikutnya, misalnya: Szygium
+          campanulatum Korth, pada penulisan berikutnya dapat ditulis Szygium campanulatum
+          K.
+     5.   Singkatan dapat digunakan dalam tabel, grafik, gambar, dan peta. Apabila singkatan
+          tidak lazim maka perlu diberikan keterangan.
+     6.   Penulisan istilah yang dimulai dengan huruf non kapital pada awal kalimat dapat
+          digunakan istilah lain nya, atau tidak berada diawal kalimat, misal: pH dapat diganti
+          dengan derajat keasaman.
+     7.   Penulisan ukuran satuan sistem metrik sesuai dengan kaidah, ukuran yang lebih besar
+          atau lebih kecil diberi imbuhan seperti: tera (T), mikro (µ).
+     8.   Penulisan angka dan satuan tidak dituliskan pada permulaan kalimat. Apabila
+          diperlukan, maka ditulis dengan huruf, misalnya: dua, dua puluh, dan lain-lain.
+          Apabila angka terlalu besar, misalnya 10.000.000, maka dapat ditulis langsung 10 juta
+          dan seterusnya.
+     9.   Penulisan angka desimal menggunakan tanda koma ( , ) dan dua angka dibelakang
+          koma, misal: 2,01
+     10. Posisi penulisan angka dalam tabel berada di bagian tengah dan mengikuti kaidah
+          penulisan.
+
+F.   Penulisan Tanda Baca
+               Tanda baca digunakan sesuai dengan kaidah yang terdapat dalam buku “Pedoman
+     Umum Ejaan Bahasa Indonesia yang Disempurnakan”. Beberapa penggunaannya yaitu:
+     1.   Tanda koma. Tanda koma dipakai untuk:
+          a.    Memisahkan unsur-unsur dalam suatu perincian, misalnya:
+                Bagian-bagian utama spektrofotometer yaitu sumber radiasi, monokromator, sel
+                absorpsi, detektor, dan alat pencatat.
+          b.    Memisahkan kalimat setara yang satu dari kalimat setara berikutnya yang
+                didahului oleh kata tetapi atau melainkan, misalnya:
+                Fruktosa dapat digunakan sebagi sumber karbon, tetapi efektifitasnya lebih
+                rendah daripada sukrosa dan glukosa
+          c.    Mengapit keterangan tambahan yang sifatnya tidak membatasi, misalnya:
+                Sambiloto, baik dalam bentuk tunggal maupun campuran, dapat digunakan
+                sebagai obat.
+   2.   Tanda titik dua. Tanda titik dua dipakai untuk:
+        a.   Mengakhiri akhir suatu pernyataan lengkap jika diikuti rangkaian atau pemerian,
+             misalnya:
+             Daun sirih merah diketahui memiliki enam golongan senyawa metabolit
+             sekunder: flavonoid, alkaloid, saponin, polifenol, tanin, dan minyak atsiri.
+             Tanda titik dua tidak dipakai jika rangkaian atau perincian itu merupakan
+             pelengkap yang mengakhiri pernyataan, misalnya:
+             Daun sirih merah diketahui memiliki senyawa flavonoid, alkaloid, saponin,
+             polifenol, tanin, dan minyak atsiri.
+        b.   Memisahkan kata yang memerlukan pemerian, misalnya:
+             Dunia : Fungi
+             Filum : Zygomycota
+             Kelas : Zygomycetes
+
+G. Penulisan Nama Bahan Kimia atau Yang Lain
+   1.   Nama lazim bahan kimia ditulis dengan huruf kecil dan nama obat ditulis menurut
+        The Merck Index atau Farmakope Indonesia, misalnya tolbutamida, kloramfenikol,
+        morfina, asam sulfat, asam nitrat, dsb.
+   2.   Huruf miring digunakan untuk lambang unsur yang berfungsi sebagai penunjuk lokasi
+        ikatan dalam nama kimia: O-metiltirosina, S-benzil-N-ftaloilsisteina. Awalan lain
+        yang perlu ditulis miring ialah cis-, E-, m-, meso-, meta-, n-, o-, orto-,para-, sec-, tert-
+        , dan Z-.
+   3.   Penulisan nama daerah selalu dalam huruf romawi dan huruf kecil. Penulisan nama
+        dunia, kelas, ordo, dan famili pada nama ilmiah organisme menggunakan huruf
+        romawi dan huruf awalnya ditulis kapital. Khusus nama famili dan genus suatu virus
+        diawali dengan huruf kapital dan dicetak miring. Nama ilmiah untuk tumbuhan dan
+        hewan terdiri dari nama genus yang diawali dengan huruf kapital dan nama spesies
+        yang diawali dengan huruf kecil (dicetak miring) dan diikuti singkatan nama orang
+        yang pertama kali menggunakan nama ilmiah tersebut dan diakui (tidak dicetak
+        miring) serta jika ada dituliskan nama subspesies, varietas, forma, dan subforma.
+
+H. Kutipan
+   Kutipan dari suatu sumber referensi mengacu kepada buku suplemen Ringkasan Sistem
+   Referensi APA (Fadila, 2006) dengan menggunakan aplikasi pengelola referensi
+   (Mendeley, EndNote, dll)
+     1.   Dibelakang kalimat yang dikutip ditulis (nama pengarang sesuai daftar pustaka,
+          tahun: halaman).
+     2.   Tidak menggunakan tanda petik (“).
+          Contoh:
+          a.    Nama penulis pada bagian akhir kalimat
+                Typus abdominalis adalah.......... (Suharyo, 2008).
+          b.    Penulis lebih dari 2 orang
+                Jika penulis lebih dari 2 orang maka yang disebutkan hanya penulis pertama
+                diikuti dengan et al., Contoh:
+                Dokumentasi adalah ....... (Patricia et al., 2004).
+          c.    Yang diacu lebih dari 2 orang
+                Jika penulis tidak masuk dalam uraian, maka antara sumber-sumber itu dipasang
+                tanda titik koma, contoh:
+                Daun annona squamosa mempunyai aktifitas oksitosin (Feng et al., 2008; Glaude
+                et al., 2010).
+          d.    Pengutipan dari sumber kedua, harus menyebutkan nama penulis aslinya dan
+                nama penulis yang buku atau majalahnya dibaca, contoh:
+                Hasil yang sama ditujukan oleh Stirpe dan Barbieri (Barbieri et al., 2009).
+                Diusahakan yang dibaca adalah sumber aslinya.
+          e.    Kepustakaan yang digunakan/dirujuk dalam teks minimal 65% dari artikel ilmiah
+                (pustaka 5 tahun terakhir) dan 25% dari buku teks (pustaka 10 tahun terakhir)
+                Peneliti diperbolehkan mempergunakan referensi lama sebanyak 10%.
+
+I.   Tabel, Grafik, Diagram, Gambar
+               Pemuatan tabel, gambar, grafik, diagram, serta pengetikan judulnya dilakukan
+     sebagai berikut:
+     1.   Tabel
+          a.    Tabel dimuat ditengah-tengah teks sebelumnya
+          b.    Judul tabel diketik diatas tabel, mengikuti lebar tabel dengan memperhitungkan
+                keseimbangan halaman dengan spacing before 12 pt.
+          c.    Nomor tabel sesuai dengan urutan penulisan. Contoh: Tabel 2.2 menunjukkan
+                bahwa tabel itu berada di bab 2, dan merupakan tabel yang kedua
+          d.    Kalimat pertama judul tabel ditulis sesudah nomor tabel, dengan jarak 2 ketukan,
+                awal kata pertama menggunakan huruf kapital.
+e.   Nomor tabel diikuti dengan judul tabel ditempatkan secara simetris di atas tabel
+     (center) tanpa diberi tanda titik dengan ukuran font 11, tidak dibold, kepala kolom
+     dan kepala baris dibold, berjarak 1,15 spasi. Jika judul lebih dari satu baris, baris
+     kedua dimulai tepat di bawah huruf pertama judul dengan posisi rata kanan dan
+     kiri (justify).
+f.   Beberapa hal yang perlu diperhatikan dalam pembuatan judul tabel: ditulis
+     dengan ukuran font 11, judul tabel merupakan frase (bukan kalimat) pernyataan
+     tentang tabel dan gambar secara ringkas, memberikan informasi singkat yang
+     dapat dipahami oleh pembaca tanpa harus membaca tubuh tulisan, menyatakan
+     kunci-kunci informasi saja, dan merupakan frase yang berdiri sendiri dan dapat
+     menerangkan arti tabel. Judul tabel seperti “Hasil pengukuran kadar gula darah
+     mencit yang diberi perlakuan” sangat tidak memadai. Judul yang lebih baik,
+     misalnya:
+     Tabel 1.1 Hasil pengukuran kadar gula darah mencit selama 4 jam pengamatan sesudah
+               diberi beberapa dosis ekstrak binahong secara per oral
+
+g.   Tabel dapat dimulai dari tepi kiri atau tengah teks sebelumnya. Tabel pendek dan
+     lebar lebih baik daripada tabel panjang dan kurus. Garis pemisah yang penting
+     hanya tiga dengan arah mendatar, dan garis bantu selebihnya harus dibuat
+     seperlunya saja. Garis bantu yang tegak dapat dihilangkan dengan menyusun
+     kolom dan jarak antarkolom secara hati-hati. Satuan dapat ditulis pada kepala
+     kolom atau kepala baris.
+h.   Isi tabel dituliskan dengan spasi 1 font 11 dan dapat memungkinkan hingga font
+     10 (menyesuaikan proporsi isi tabel).
+i.   Tabel adakalanya memerlukan catatan kaki dan atau keterangan yang dapat
+     berupa informasi tentang keterbatasan yang ada pada data, data bersifat nyata
+     secara statistika, dan hasil penelitian orang lain. Catatan kaki juga dapat untuk
+     menjelaskan singkatan yang digunakan pada tabel. Petunjuk catatan kaki bianya
+     berupa lambang seperti *, †, ‡, dll. Jika catatan kaki untuk menyatakan sumber
+     data yaitu dengan menuliskan nama penulis dan tahun, maka tidak perlu diberi
+     petunjuk catatan kaki. Jika data yang disajikan sudah dimodifikasi atau sudah
+     diolah, maka digunakan kata “menurut” atau “diolah dari” atau “diadaptasi dari”,
+     lalu diikuti nama penulis dan tahun.
+j.       Catatan kaki dituliskan tepat dibawah sisi paling kiri dari tabel dengan font
+         minimal satu tingkat lebih kecil dari font isi tabel, spasi 1.
+k.       Tabel tidak boleh dipenggal dan tidak lebih dari satu halaman. Tabel yang lebih
+         dari satu halaman atau yang harus dilipat ditempatkan pada lampiran.
+Contoh pembuatan tabel:
+
+                                        Tabel nomor Judul tabel
+           Kepala kolom                  Kepala kolom                 Kepala kolom
+            Kepala Baris                     Isi tabel                  Isi tabel
+            Kepala Baris                     Isi tabel                  Isi tabel
+          Catatan kaki-tabel
+
+Tabel 1.1 Pengaruh suhu simpan dan putresina terhadap kekerasan dan kandungan gula buah
+           pisang ambon
+                                                            Hari ke-
+                 Perlakuan
+                                                  0              7           14
+ Kekerasan buah (mm/50g/10 dtk)
+ Suhu simpan
+ 15oC                                           10,20a        13,40a       11,83a
+ 28oC                                           10,64a        14, 22a      88,43b
+                                                      a              a
+ Putresina                                      11,07         13,23        21,19a
+                                                      a              a
+ Tanpa putresina                                10,76         14,40        41,82b
+ Gula (%)
+ Suhu simpan
+ 15oC                                           0,38a          0,56a        0,73a
+   o                                                 a              a
+ 28 C                                           0,55           1,82        14,41b
+                                                     a              a
+ Putresina                                      0,53           0,87         6,98a
+                                                     a              a
+ Tanpa putresina                                0,40           1,52         6,91a
+     Keterangan:
+     a
+      : berbeda signifikan
+     b
+       : tidak berbeda signifikan
+
+Tabel 2.1 Rata-rata dan simpangan baku beberapa sifat fisis dan kimia tanah dari 78 contoh
+           tanah di Kebun Percobaan Ciheuleut
+              Sifat                     Rata-rata                Simpangan baku
+ Pasir (%)                                47,66                        23,81
+ Lempung (%)                              21,80                        11,94
+ Liat (%)                                 30,72                        18,09
+ C-organik (%)                             0,61                         0,57
+ Rapatan isi (mg m3)                       1,43                         0,16
+ KTK (mek 100 g-1 tanah)                  18,08                        17,09
+ KAT pada KL (g g-1)                      23,62                        10,80
+Keterangan:
+KTK: kapasitas tukar kation,
+KAT: kadar air tanah, KL: kapasitas lapang
+
+l.       Tabel dirujuk sekurang-kurangnya satu kali dalam tubuh tulisan, sehingga tabel
+         harus diletakkan sedekat-dekatnya dengan teks. Perujukan dinyatakan di dalam
+        paragraf sebelum tabel atau gambar dan diawali dengan huruf kapital diikuti
+        nomor tabel. Contohnya:
+        … seperti ditunjukkan pada Gambar 5.
+        … mendekati bentuk sigmoid (Gambar 5).
+        … meningkat dengan pesat (Tabel 3.1).
+        Perujukan yang tidak disertai dengan keterangan perlu dihindari. Misalnya:
+        “Hasilnya dapat dilihat pada Tabel 3.2”
+        atau “Hasilnya disajikan pada Tabel 3.2”
+        Pernyataan yang lebih baik ialah
+        “Tabel 3.3 menunjukkan bahwa kacang hijau lebih banyak memancarkan
+        spektrumbiru daripada kacang tanah”.
+
+2.   Gambar
+     a. Bagan, grafik, diagram, peta, dan foto semuanya disebut gambar
+     b. Gambar dimuat kira-kira di tengah-tengah teks sebelumnya
+     c. Judul gambar diketik di bawah gambar, mengikuti lebar gambar dengan
+        memperhitungkan keseimbangan halaman, spasi 1,15.
+     d. Jika gambar bersumber dari hasil sitasi maka harus dicantumkan pada akhir judul
+        gambar sesuai tata tulis pada kutipan.
+     e. Nomor gambar sesuai dengan urutan pencantuman gambar. Contoh: Gambar 2
+        menunjukkan bahwa gambar itu merupakan urutan gambar yang kedua dalam
+        Tugas Akhir
+     f. Kalimat pertama judul gambar ditulis sesudah nomor gambar, dengan jarak 2
+        ketukan, awal kata pertama menggunakan huruf kapital, tidak dibold
+     g. Awal baris kedua judul gambar berada dibawah awal judul gambar (bukan di
+        bawah nomor gambar).
+
+                                      Gambar 1 Mikroskop
+                                 Gambar 2 Spektrum absorpsi dari parasetamol
+
+J.   Referensi
+            Tinjauan pustaka yang digunakan relatif baru (minimal 5 tahun untuk artikel
+     ilmiah, buku 10 tahun) dan relevan. Peneliti diperbolehkan mempergunakan referensi lama
+     sebanyak 10%, dan wajib menggunakan referens manajer (Mendeley, end note). Penulisan
+     pustaka menggunakan gaya kutipan American Psychological Association (APA) 6th.
+     Semua yang tertera dalam daftar pustaka harus dirujuk di dalam naskah. Kemutakhiran
+     referensi sangat diutamakan.
+     1.   Buku
+          Penulis 1, Penulis 2 dst. (Nama belakang, nama depan disingkat). (Tahun publikasi).
+          Judul Buku cetak miring (Edisi). Tempat Publikasi: Penerbit
+          Contoh:
+          Kast, F. E., Roszenweig, J. E., & Ali, A. H. (2007). Organisasi dan Manajemen (4th
+                 ed.). Jakarta: Bumi Aksara.
+
+     2.   Artikel Jurnal
+          Penulis 1, Penulis 2 dan seterusnya, (Nama belakang, nama depan disingkat).
+          ( Tahun publikasi). Judul artikel. Nama Jurnal Cetak Miring, Vol (Nomor), Rentang
+          Halaman. DOI (jika ada)
+          Contoh:
+          Kasemy, Z. A., Bahbah, W. A., Zewain, S. K., Haggag, M. G., Alkalash, S. H.,
+               Zahran, E., & Desouky, D. E. (2020). Knowledge, Attitude and Practice
+               toward COVID-19 among Egyptians. Journal of Epidemiology and Global
+               Health, 10(4): 378. https://doi.org/10.2991/jegh.k.200909.001
+
+     3.   Prosiding Seminar/Konferensi
+          Penulis 1, Penulis 2 dst, (Nama belakang, nama depan disingkat). ( Tahun
+          publikasi). Judul artikel. Nama Konferensi (halaman). Kota, Negara: Penerbit.
+     Contoh:
+     Cismas, S. C. (2010). Educating academic writing skills in engineering. Latest trends
+           on engineering education (pp. 225-247). Corfu Island, Greece: WSEAS Press.
+
+4.   Tesis atau Disertasi
+     Penulis.     (Tahun       terbit). Judul     Tugas       Akhir/tesis/disertasi (Tugas
+     Akhir/Tesis/Disertasi), Nama institusi, Kota, Negara.
+     Contoh:
+     Putranti, D. P., Pangastuti, H. S., & Rahmat, I. (2021). Hubungan Pengetahuan dan
+            Sikap tentang Coronairus Disease 2019 (COVID-19) dengan Tindakan
+            Pencegahan COVID-19 pada Satuan Tugas Penanganan COVID-19
+            Kabupaten Kutai Kartanegara. (Tesis), Universitas Gadjah Mada,
+            Yogyakarta, Indonesia.
+
+5.   Sumber Rujukan dari Website
+     Penulis. (Tahun). Judul. Tanggal diakses, Alamat Uniform Resources Locator (URL).
+     Contoh:
+     Centers for Disease Control and Prevention (CDC). (2020). Guidance for Certifying
+            Deaths Due to Coronavirus Disease 2019 (COVID–19). Retrieved December
+            24, 2020, from Viral Statistics Reporting Guidance website:
+            https://www.cdc.gov/nchs/data/nvss/vsrg/vsrg03-508.pdf
