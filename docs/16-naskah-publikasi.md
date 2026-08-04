@@ -1,57 +1,36 @@
 # BAB XVI - Tata Cara Penulisan Naskah Publikasi
 
-BAB XVI
-                  TATA CARA PENULISAN NASKAH PUBLIKASI
+### Tata Cara Penulisan Naskah Publikasi
 
-A. Ketentuan Cara Penyusunan Naskah Publikasi
-           Penulisan naskah publikasi dilakukan apabila laporan hasil Tugas Akhir telah
-   dinyatakan memenuhi kelayakan dan kecukupan dari dewan penguji dengan bukti telah
-   diberikan tanda tangan pada lembar pengesahan Tugas Akhir. Naskah publikasi dibuat
-   untuk menyesuaikan UU Nomor 12 Tahun 2012 tentang Pendidikan Tinggi, Peraturan
-   Menteri Riset, Teknologi, dan Pendidikan tinggi Nomor 50 Tahun 2018 tentang Perubahan
-   Atas Peraturan Menteri Riset, Teknologi, dan Pendidikan Tinggi Nomor 44 Tahun 2015
-   tentang Standar Nasional Pendidikan Tinggi dan Peraturan Menteri Riset, Teknologi, dan
-   Pendidikan Tinggi Nomor 9 Tahun 2018 tentang Akreditasi Jurnal Ilmiah, yang
-   menyampaikan bahwa lulusan sarjana harus mampu dan wajib mempublikasikan hasil
-   tugas akhir atau laporan tugas akhir. Naskah publikasi hasil Tugas Akhir mahasiswa
-   selanjutnya akan dipublikasikan pada :
-   1. Jurnal Internasional bereputasi
-   2. Jurnal Internasional berbahasa PBB
-   3. Prosiding seminar internasional
-   4. Jurnal Nasional terakreditasi Sinta
-   5. Jurnal Nasional ber ISSN
-   6. Prosiding seminar nasional
-   7. Sertifikat Hak Kekayaan Intelektual (HKI) dan produk yang di HKI-kan
-   8. Buku Teknologi Tepat Guna (TTG)
-   9. Buku ber ISBN
-   10. Book chapter
-   11. Repository Universitas Harapan Bangsa
+## A. Ketentuan Cara Penyusunan Naskah Publikasi
+Penulisan naskah publikasi dilakukan apabila laporan hasil Tugas Akhir telah dinyatakan memenuhi kelayakan dan kecukupan dari dewan penguji dengan bukti telah diberikan tanda tangan pada lembar pengesahan Tugas Akhir. Naskah publikasi dibuat untuk menyesuaikan UU Nomor 12 Tahun 2012 tentang Pendidikan Tinggi, Peraturan
+Menteri Riset, Teknologi, dan Pendidikan tinggi Nomor 50 Tahun 2018 tentang Perubahan
+Atas Peraturan Menteri Riset, Teknologi, dan Pendidikan Tinggi Nomor 44 Tahun 2015 tentang Standar Nasional Pendidikan Tinggi dan Peraturan Menteri Riset, Teknologi, dan
+Pendidikan Tinggi Nomor 9 Tahun 2018 tentang Akreditasi Jurnal Ilmiah, yang menyampaikan bahwa lulusan sarjana harus mampu dan wajib mempublikasikan hasil tugas akhir atau laporan tugas akhir. Naskah publikasi hasil Tugas Akhir mahasiswa selanjutnya akan dipublikasikan pada :
+1. Jurnal Internasional bereputasi
+2. Jurnal Internasional berbahasa PBB
+3. Prosiding seminar internasional
+4. Jurnal Nasional terakreditasi Sinta
+5. Jurnal Nasional ber ISSN
+6. Prosiding seminar nasional
+7. Sertifikat Hak Kekayaan Intelektual (HKI) dan produk yang di HKI-kan
+8. Buku Teknologi Tepat Guna (TTG)
+9. Buku ber ISBN
+10. Book chapter
+11. Repository Universitas Harapan Bangsa
 
-B. Pedoman Umum Penyusunan Naskah Publikasi
-   Pedoman umum penyusunan naskah publikasi adalah sebagai berikut:
-   1.   Secara format naskah publikasi merujuk pada gaya selingkung dari jurnal yang akan
-        dipilih. Untuk publikasi pada repository UHB maka mengikuti gaya selingkung
-        repository Universitas Harapan Bangsa
-   2.   Isi dalam naskah publikasi bukan ringkasan Tugas Akhir. Peneliti perlu melakukan
-        parafrasa pada bagian tertentu dari penelitian.
-   3.   Proses penyusunan naskah publikasi melalui proses bimbingan pada pembimbing 1
-        dan pembimbing 2 minimal 1 kali. Hasil proses bimbingan dilaporkan pada lembar
-        bimbingan
-   4.   File naskah publikasi yang sudah mendapatkan persetujuan dari kedua pembimbing,
-        akan dilakukan pengecekan plagiasi melalui petugas perpustakaan Universitas
-        Harapan Bangsa. Petugas akan segera melakukan proses cek plagiasi dengan
-        software plagiasi. Cek plagiasi hasil revisi diberikan waktu 3 hari setelah cek plagiasi
-        pertama.
-   5.   Peneliti menyerahkan hasil naskah publikasi dalam bentuk CD kepada program studi,
-        pembimbing dan komite Tugas Akhir apabila dikehendaki.
+## B. Pedoman Umum Penyusunan Naskah Publikasi
+Pedoman umum penyusunan naskah publikasi adalah sebagai berikut:
+1. Secara format naskah publikasi merujuk pada gaya selingkung dari jurnal yang akan dipilih. Untuk publikasi pada repository UHB maka mengikuti gaya selingkung repository Universitas Harapan Bangsa
+2. Isi dalam naskah publikasi bukan ringkasan Tugas Akhir. Peneliti perlu melakukan parafrasa pada bagian tertentu dari penelitian.
+3. Proses penyusunan naskah publikasi melalui proses bimbingan pada pembimbing 1 dan pembimbing 2 minimal 1 kali. Hasil proses bimbingan dilaporkan pada lembar bimbingan
+4. File naskah publikasi yang sudah mendapatkan persetujuan dari kedua pembimbing, akan dilakukan pengecekan plagiasi melalui petugas perpustakaan Universitas
+Harapan Bangsa. Petugas akan segera melakukan proses cek plagiasi dengan software plagiasi. Cek plagiasi hasil revisi diberikan waktu 3 hari setelah cek plagiasi pertama.
+5. Peneliti menyerahkan hasil naskah publikasi dalam bentuk CD kepada program studi, pembimbing dan komite Tugas Akhir apabila dikehendaki.
 
-C. Sistematika Penulisan Naskah Publikasi
-           Sistematika penulisan naskah publikasi secara umum adalah sama, merujuk pada
-   gaya selingkung dari jurnal yang akan dipilih. Adapun sistematika penulisan naskah
-   publikasi   di   repository   Universitas     Harapan    Bangsa    bisa   diakses    melalui
-   https://drive.google.com/file/d/19-nCM-RFxXhcIeh4LlAJZCx5HcMzRgkL/view                  atau
-   menghubungi perpustakaan UHB.
-                                      LAMPIRAN
+## C. Sistematika Penulisan Naskah Publikasi
+Sistematika penulisan naskah publikasi secara umum adalah sama, merujuk pada gaya selingkung dari jurnal yang akan dipilih. Adapun sistematika penulisan naskah publikasi di repository Universitas Harapan Bangsa bisa diakses melalui https://drive.google.com/file/d/19-nCM-RFxXhcIeh4LlAJZCx5HcMzRgkL/view atau menghubungi perpustakaan UHB.
+### Lampiran
 
 Lampiran 1. Alur penyusunan Tugas Akhir
 Lampiran 2. Contoh lembar persetujuan judul
@@ -75,7 +54,7 @@ Lampiran 19. Contoh kerangka konsep
 Lampiran 20. Contoh lembar penjelasan penelitian
 Lampiran 21. Contoh lampiran menjadi responden (informed consent)
 Lampiran 22. Contoh lembar kesediaan persetujuan publikasi artikel ilmiah ke repository
-             Universitas Harapan Bangsa atau di jurnal nasional ber-ISSN
+Universitas Harapan Bangsa atau di jurnal nasional ber-ISSN
 Lampiran 23. Format penilaian bimbingan proposal Tugas Akhir
 Lampiran 24. Format penilaian bimbingan hasil Tugas Akhir
 Lampiran 25. Formulir protokol etik penelitian kesehatan pada komisi etik UHB
