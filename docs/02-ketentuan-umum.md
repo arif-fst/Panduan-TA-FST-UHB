@@ -9,16 +9,16 @@ Pelaksanaan Tugas Akhir dapat dilaksanakan secara individu atau boleh diambil se
 Persyaratan bagi mahasiswa yang berhak mengikuti kegiatan penyusunan Tugas
 Akhir adalah sebagai berikut:
 1. Persyaratan akademik Skripsi
-    - a. Terdaftar sebagai mahasiswa aktif semester 7
-    - b. Mahasiswa telah menyelesaikan semua mata kuliah prasyarat (mutlak ataupun tidak mutlak) bagi Tugas Akhir tersebut, sesuai dengan ketentuan yang ditetapkan.
-    - c. Mahasiswa memiliki nilai minimal C pada kuliah metodologi penelitian.
-    - d. Jumlah satuan kredit semester (sks) minimal 118-121 sks untuk mahasiswa reguler dan minimal 46 sks untuk mahasiswa alih jenjang.
+   a. Terdaftar sebagai mahasiswa aktif semester 7
+   b. Mahasiswa telah menyelesaikan semua mata kuliah prasyarat (mutlak ataupun tidak mutlak) bagi Tugas Akhir tersebut, sesuai dengan ketentuan yang ditetapkan.
+   c. Mahasiswa memiliki nilai minimal C pada kuliah metodologi penelitian.
+   d. Jumlah satuan kredit semester (sks) minimal 118-121 sks untuk mahasiswa reguler dan minimal 46 sks untuk mahasiswa alih jenjang.
 2. Persyaratan akademik Non – Skripsi
-    - a. Terdaftar sebagai mahasiswa aktif semester 5
-    - b. Mahasiswa telah menyelesaikan semua mata kuliah prasyarat (mutlak ataupun tidak mutlak) bagi Tugas Akhir tersebut, sesuai dengan ketentuan yang ditetapkan.
+   a. Terdaftar sebagai mahasiswa aktif semester 5
+   b. Mahasiswa telah menyelesaikan semua mata kuliah prasyarat (mutlak ataupun tidak mutlak) bagi Tugas Akhir tersebut, sesuai dengan ketentuan yang ditetapkan.
 3. Persyaratan administratif
-    - a. Telah melakukan pembayaran SPP pada semester berjalan
-    - b. Telah melakukan registrasi akademik (KRS)
+   a. Telah melakukan pembayaran SPP pada semester berjalan
+   b. Telah melakukan registrasi akademik (KRS)
 
 ## C. Bentuk Tugas Akhir
 Bentuk Tugas Akhir yang dapat dilakukan oleh mahasiswa di lingkungan Universitas
