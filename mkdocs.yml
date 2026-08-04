@@ -18,7 +18,6 @@ theme:
 
 nav:
   - Beranda: index.md
-  - Portal Tugas Akhir: portal.md
   - Buku Panduan:
       - "I. Pendahuluan": 01-pendahuluan.md
       - "II. Ketentuan Umum": 02-ketentuan-umum.md
