@@ -62,7 +62,7 @@ Selamat datang di situs Tugas Akhir mahasiswa. Ikuti tahapan di bawah ini secara
 
 <div class="ta-timeline">
 
-<a href="GANTI_LINK_FORM_TOPIK_PEMINATAN" class="ta-step">
+<a href="https://forms.cloud.microsoft/r/VE1y2ZAYXJ" class="ta-step">
   <div class="ta-dot">💡</div>
   <div class="ta-body">
     <p class="ta-step-title">1. Topik Peminatan</p>
