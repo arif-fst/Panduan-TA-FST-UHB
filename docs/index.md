@@ -105,4 +105,4 @@ Selamat datang di situs Tugas Akhir mahasiswa. Ikuti tahapan di bawah ini secara
 </div>
 
 !!! note "Catatan"
-    Semua formulir dapat diisi tanpa perlu login akun Microsoft. Pastikan NIM yang diisi sudah benar. Untuk membaca aturan lengkap, buka **Buku Panduan** di menu sebelah kiri.
+    Semua formulir dapat diisi tanpa perlu login akun Microsoft. Pastikan NIM yang diisi sudah benar. Untuk membaca aturan lengkap, buka **Buku Panduan** di menu sebelah kiri. <br/> Dokumen Tugas Akhir dapat diakses melalui link <a href="https://universitasharapanbangsa-my.sharepoint.com/:f:/g/personal/arifsetia_uhb_ac_id/IgCA2FGYi2_QRJFFld1M31NvATT1ez4PRQIRr4ce5rx2wvI?e=dowxDY" class="ta-step">
