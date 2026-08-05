@@ -70,7 +70,7 @@ Selamat datang di situs Tugas Akhir mahasiswa. Ikuti tahapan di bawah ini secara
   </div>
 </a>
 
-<a href="GANTI_LINK_FORM_JUDUL_TA" class="ta-step">
+<a href="https://forms.cloud.microsoft/r/W6z5650pJB" class="ta-step">
   <div class="ta-dot">📄</div>
   <div class="ta-body">
     <p class="ta-step-title">2. Ajuan Judul TA</p>
